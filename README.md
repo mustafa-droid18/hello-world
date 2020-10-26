@@ -1,3 +1,4 @@
 # hello-world
-First Trial Repository.\n
+First Trial Repository.
+
 First time using github just checking out
